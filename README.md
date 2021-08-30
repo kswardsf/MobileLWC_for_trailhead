@@ -1,1 +1,1 @@
-# MobileLWC_for_trailhead
+Zipped bikeCard Lightning web component for the Set Up Your Salesforce Mobile Developer Tools for Lightning Web Components trail project.
